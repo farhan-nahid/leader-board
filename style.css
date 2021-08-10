@@ -14,10 +14,6 @@
   --bg-color: #f3f1ff;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 nav {
   height: 94px;
   background-color: var(--primary-color);
